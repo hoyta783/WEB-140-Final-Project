@@ -85,11 +85,13 @@ footer {
 }
 
 #invert {
-    float: left;
+    float: right;
+    margin-top: 270px;
     padding: 5px;
 }
 
 #invertion {
-    float: left;
+    float: right;
+    margin-top: 270px;
     padding: 5px;
 }
