@@ -20,6 +20,7 @@ h1 {
     color: #fff5fa;
     text-align: center;
     margin-top: 5px;
+    font-size: 1.1rem;
 }
 
 ul {
@@ -60,4 +61,23 @@ img {
 
 #center-it {
     margin-left: 65px;
+}
+
+footer {
+    height: 75px;
+    background: #74b1d8;
+    color: #fff5fa;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#smol {
+    margin-right: 125px;
+}
+
+#bigg {
+    margin-left: 125px;
 }
