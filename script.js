@@ -37,27 +37,15 @@ $(document).ready( function(){
     });
 
     $("#bigg").click( function(){
-        $(".1st").css({"font-size": "1.5rem"});
-        $(".2nd").css({"font-size": "1.5rem"});
-        $(".3rd").css({"font-size": "1.5rem"});
-        $(".4th").css({"font-size": "1.5rem"});
-        $(".5th").css({"font-size": "1.5rem"});
+        $(".idk").css({"font-size": "1.5rem"});
     });
 
     $("#smol").click( function(){
-        $(".1st").css({"font-size": "0.8rem"});
-        $(".2nd").css({"font-size": "0.8rem"});
-        $(".3rd").css({"font-size": "0.8rem"});
-        $(".4th").css({"font-size": "0.8rem"});
-        $(".5th").css({"font-size": "0.8rem"});
+        $(".idk").css({"font-size": "0.8rem"});
     });
 
     $("#meh").click( function(){
-        $(".1st").css({"font-size": "1.1rem"});
-        $(".2nd").css({"font-size": "1.1rem"});
-        $(".3rd").css({"font-size": "1.1rem"});
-        $(".4th").css({"font-size": "1.1rem"});
-        $(".5th").css({"font-size": "1.1rem"});
+        $(".idk").css({"font-size": "1.1rem"});
     });
 
     $("#invertion").on("click", function(){
@@ -65,11 +53,7 @@ $(document).ready( function(){
             $("html").css("background", "#fff5fa");
             $("body").css("background", "#fff5fa");
             $("header").css({"background":"#eecde9", "color":"#74b1d8"});
-            $(".1st").css("color", "#74b1d8");
-            $(".2nd").css("color", "#74b1d8");
-            $(".3rd").css("color", "#74b1d8");
-            $(".4th").css("color", "#74b1d8");
-            $(".5th").css("color", "#74b1d8");
+            $(".idk").css("color", "#74b1d8");
             $(".col").css("background", "#eecde9");
             $(".col-4").css("background", "#eecde9");
             $("footer").css("background", "#eecde9");
@@ -78,11 +62,7 @@ $(document).ready( function(){
             $("html").css("background", "lightskyblue");
             $("body").css("background", "lightskyblue");
             $("header").css({"background":"#74b1d8", "color":"#fff5fa" });
-            $(".1st").css("color", "#fff5fa");
-            $(".2nd").css("color", "#fff5fa");
-            $(".3rd").css("color", "#fff5fa");
-            $(".4th").css("color", "#fff5fa");
-            $(".5th").css("color", "#fff5fa");
+            $(".idk").css("color", "#fff5fa");
             $(".col").css("background", "#74b1d8");
             $(".col-4").css("background", "#74b1d8");
             $("footer").css("background", "#74b1d8");
