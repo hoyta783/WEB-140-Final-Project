@@ -5,10 +5,9 @@ html, body {
 }
 
 header {
-    background-image: url(https://res.cloudinary.com/ddmn1cgda/image/upload/v1658332563/Getting_Your_Associates_Degree_In_Nursing_wgmedn.png);
-    background-repeat: no-repeat;
-    height: 360px;
+    height: 200px;
     text-align: center;
+    background: #74b1d8;
     color: #fff5fa;
 }
 
@@ -84,14 +83,3 @@ footer {
     margin-left: 125px;
 }
 
-#invert {
-    float: right;
-    margin-top: 270px;
-    padding: 5px;
-}
-
-#invertion {
-    float: right;
-    margin-top: 270px;
-    padding: 5px;
-}

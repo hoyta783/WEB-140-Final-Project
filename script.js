@@ -55,6 +55,8 @@ $(document).ready( function(){
 
     //The function to invert colors using the clickbox
 
+    
+
     $("#invertion").on("click", function(){
         if($(this).is(":checked")){
             $("html").css("background", "#fff5fa");
