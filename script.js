@@ -8,35 +8,35 @@ $(document).ready( function(){
         $(this).attr("src", "https://res.cloudinary.com/crystalvictini/image/upload/v1656648173/WEB-140%20Final%20Project/First%20Column.jpg");
     },
     function(){
-        $(this).attr("src", "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg");
+        $(this).attr("src", "takes.png");
     });
 
     $("#second").hover (function(){
         $(this).attr("src", "https://res.cloudinary.com/crystalvictini/image/upload/v1656648181/WEB-140%20Final%20Project/Second%20Column.jpg");
     },
     function(){
-        $(this).attr("src", "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg");
+        $(this).attr("src", "course.png");
     });
 
     $("#third").hover (function(){
         $(this).attr("src", "https://res.cloudinary.com/crystalvictini/image/upload/v1656648177/WEB-140%20Final%20Project/Third%20Column.jpg");
     },
     function(){
-        $(this).attr("src", "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg");
+        $(this).attr("src", "Working.png");
     });
 
     $("#fourth").hover (function(){
         $(this).attr("src", "https://res.cloudinary.com/crystalvictini/image/upload/v1657596909/WEB-140%20Final%20Project/Column%204.jpg");
     },
     function(){
-        $(this).attr("src", "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg");
+        $(this).attr("src", "career.png");
     });
     
     $("#fifth").hover (function(){
         $(this).attr("src", "https://res.cloudinary.com/crystalvictini/image/upload/v1657596979/WEB-140%20Final%20Project/Column%205.png");
     },
     function(){
-        $(this).attr("src", "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg");
+        $(this).attr("src", "journey.png");
     });
 
     //Buttons to change font size below

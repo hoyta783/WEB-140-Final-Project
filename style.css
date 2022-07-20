@@ -5,11 +5,13 @@ html, body {
 }
 
 header {
-    height: 175px;
+    height: 200px;
+
     text-align: center;
     background: #74b1d8;
     color: #fff5fa;
 }
+
 
 h1 {
     font-size: 4rem;
@@ -81,3 +83,4 @@ footer {
 #bigg {
     margin-left: 125px;
 }
+
