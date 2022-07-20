@@ -1,5 +1,8 @@
 $(document).ready( function(){
+    //alert at start of website
     alert("Welcome to our website! We hope you enjoy looking into all the different areas about becoming a nurse!")
+
+    //changing the pictures by hovering
 
     $("#first").hover (function(){
         $(this).attr("src", "https://res.cloudinary.com/crystalvictini/image/upload/v1656648173/WEB-140%20Final%20Project/First%20Column.jpg");
@@ -36,6 +39,8 @@ $(document).ready( function(){
         $(this).attr("src", "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg");
     });
 
+    //Buttons to change font size below
+
     $("#bigg").click( function(){
         $(".idk").css({"font-size": "1.5rem"});
     });
@@ -47,6 +52,8 @@ $(document).ready( function(){
     $("#meh").click( function(){
         $(".idk").css({"font-size": "1.1rem"});
     });
+
+    //The function to invert colors using the clickbox
 
     $("#invertion").on("click", function(){
         if($(this).is(":checked")){
