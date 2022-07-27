@@ -1,0 +1,89 @@
+html, body {
+    background: lightskyblue;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    height: 200px;
+    text-align: center;
+    background: #74b1d8;
+    color: #fff5fa;
+}
+
+
+h1 {
+    background-image: url(https://res.cloudinary.com/ddmn1cgda/image/upload/c_scale,h_200/v1658333320/Getting_Your_Associates_Degree_In_Nursing_1_ik7csk.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 3.5rem;
+    padding-top: 55px;
+    color: black;
+}
+
+.idk {
+    color: #fff5fa;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 1.1rem;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: none;
+}
+
+#linkl {
+    margin-right: 15px;
+}
+
+li {
+    width: 95%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 5px;
+}
+
+.col {
+    margin: 25px 15px;
+    background: #74b1d8;
+    min-height: 525px;
+}
+
+.col-4 {
+    margin: 25px 15px;
+    background: #74b1d8;
+    min-height: 525px;
+}
+
+img {
+    margin-top: 10px;
+}
+
+.dropdown-center {
+    margin-left: 10px;
+}
+
+#center-it {
+    margin-left: 65px;
+}
+
+footer {
+    height: 75px;
+    background: #74b1d8;
+    color: #fff5fa;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#smol {
+    margin-right: 125px;
+}
+
+#bigg {
+    margin-left: 125px;
+}
+
